@@ -1,10 +1,2 @@
-meu primeiro arquivo no git
-
-
-alterando o readme
-
-
-alteração feita no master
-
-agora sim
+meu primeiro sistema do git (alterado e atualizado)
 
